@@ -1,4 +1,5 @@
-###Testing Cerner's SMART on FHIR API###
+Testing Cerner's SMART on FHIR API
+----------------------------------
 
 License
 ------------------------------
